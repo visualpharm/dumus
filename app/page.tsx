@@ -22,9 +22,9 @@ export default function LandingPage() {
           <div className="flex items-center gap-2 font-bold text-xl">
             <Building2 className="h-6 w-6" />
             <span className="relative group cursor-help">
-              Bamba
+              Dumus
               <div className="absolute top-full left-0 mt-2 bg-black text-white text-xs rounded px-2 py-1 opacity-0 group-hover:opacity-100 transition-opacity duration-200 whitespace-nowrap z-50">
-                Alternative names: Valai, Domai, Nexel, Brikly, Urbio
+                Alternative names: Valai, Domai, Nexel, Brikly, Urbio, Bamba
               </div>
             </span>
           </div>
@@ -88,7 +88,7 @@ export default function LandingPage() {
                 src="/location-pin-character-standing-among-town-buildings.svg"
                 width={500}
                 height={500}
-                alt="Inversiones inmobiliarias inteligentes con Bamba"
+                alt="Inversiones inmobiliarias inteligentes con Dumus"
                 className="mx-auto w-full h-auto lg:order-last"
               />
             </div>
@@ -100,7 +100,7 @@ export default function LandingPage() {
           <div className="container px-4 md:px-6">
             <div className="flex flex-col items-center justify-center space-y-4 text-center">
               <div className="space-y-2">
-                <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">Cómo invertís con Bamba</h2>
+                <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">Cómo invertís con Dumus</h2>
                 <p className="max-w-[900px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
                   Un proceso simple y transparente para maximizar tu inversión inmobiliaria
                 </p>
@@ -255,7 +255,7 @@ export default function LandingPage() {
                 </div>
                 <div className="flex flex-col items-center p-6 bg-background rounded-xl border shadow-sm">
                   <Shield className="h-12 w-12 text-primary mb-4" />
-                  <p className="font-medium text-center">Cero riesgo si Bamba desaparece: siempre sos dueño.</p>
+                  <p className="font-medium text-center">Cero riesgo si Dumus desaparece: siempre sos dueño.</p>
                 </div>
               </div>
             </div>
@@ -291,7 +291,7 @@ export default function LandingPage() {
           <div className="flex flex-col items-center gap-4 px-8 md:flex-row md:gap-2 md:px-0">
             <Building2 className="h-6 w-6" />
             <p className="text-center text-sm leading-loose md:text-left">
-              © 2025 Bamba S.A.S. Todos los derechos reservados.
+              © 2025 Dumus S.A.S. Todos los derechos reservados.
             </p>
           </div>
           <div className="flex gap-4">

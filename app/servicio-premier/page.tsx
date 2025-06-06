@@ -24,7 +24,7 @@ export default function ServicioPremierPage() {
         <div className="container flex h-16 items-center justify-between">
           <div className="flex items-center gap-2 font-bold text-xl">
             <Building2 className="h-6 w-6" />
-            <Link href="/">Bamba</Link>
+            <Link href="/">Dumus</Link>
           </div>
           <nav className="hidden md:flex items-center gap-6">
             <Link href="/oportunidades" className="text-sm font-medium hover:text-primary">
@@ -165,7 +165,7 @@ export default function ServicioPremierPage() {
             </div>
 
             <div className="relative w-full h-64 md:h-80 rounded-xl overflow-hidden mb-8">
-              <Image src="/team-photo.png" alt="Equipo de Bamba" fill className="object-cover" priority />
+              <Image src="/team-photo.png" alt="Equipo de Dumus" fill className="object-cover" priority />
               <div className="absolute inset-0 bg-gradient-to-t from-black/70 to-transparent flex items-end">
                 <div className="p-6 text-white">
                   <h3 className="text-2xl font-bold mb-2">Nuestro Equipo</h3>
@@ -363,7 +363,7 @@ export default function ServicioPremierPage() {
           <div className="flex flex-col items-center gap-4 px-8 md:flex-row md:gap-2 md:px-0">
             <Building2 className="h-6 w-6" />
             <p className="text-center text-sm leading-loose md:text-left">
-              © 2025 Bamba S.A.S. Todos los derechos reservados.
+              © 2025 Dumus S.A.S. Todos los derechos reservados.
             </p>
           </div>
           <div className="flex gap-4">

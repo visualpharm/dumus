@@ -12,7 +12,7 @@ export default function RegistroPage() {
         <div className="container flex h-16 items-center justify-between">
           <div className="flex items-center gap-2 font-bold text-xl">
             <Building2 className="h-6 w-6" />
-            <Link href="/">Bamba</Link>
+            <Link href="/">Dumus</Link>
           </div>
           <nav className="hidden md:flex items-center gap-6">
             <Link href="/oportunidades" className="text-sm font-medium hover:text-primary">
@@ -97,7 +97,7 @@ export default function RegistroPage() {
           <div className="flex flex-col items-center gap-4 px-8 md:flex-row md:gap-2 md:px-0">
             <Building2 className="h-6 w-6" />
             <p className="text-center text-sm leading-loose md:text-left">
-              © 2025 Bamba S.A.S. Todos los derechos reservados.
+              © 2025 Dumus S.A.S. Todos los derechos reservados.
             </p>
           </div>
           <div className="flex gap-4">
